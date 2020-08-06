@@ -1,7 +1,7 @@
 require 'pry'
 require_relative "./models/clown"
 
-# testing your code below
+# testing code below
 clown1 = Clown.new('Krusty', 55, 'Juggling', 'Failure')
 clown2 = Clown.new('Juju', 38, 'Dancing', 'Humilliation')
 clown3 = Clown.new('Li', 88, 'Magic tricks', 'Heights')
